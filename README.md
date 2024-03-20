@@ -10,3 +10,9 @@ Thus, I will be aim to complete the project in four iterations, one per section.
 
 I'm enthusastic and have many ideas, but I will try not to stray from the assignment.
 However, since the theme and required pictures are not provided, I've decided to add my own theme: Karate.
+
+****Photos Credits****
+Photo by RDNE Stock project on Pexels: https://www.pexels.com/@rdne/
+
+****Logo Credit****
+Image by OpenClipart-Vectors: https://pixabay.com/users/openclipart-vectors-30363/
