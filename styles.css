@@ -128,3 +128,37 @@ button {
     font-weight: bold;
     padding-bottom: 36px;
 }
+
+.bannerPanel {
+    width: 80%;
+    margin: auto;
+}
+
+.banner {
+    display: flex;
+    justify-content: space-around;
+    background-color: #3882F6;
+    align-items: end;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 0px 5px 0px gray;
+}
+
+.bannerText1 {
+    font-size: 18px;
+    font-weight: bolder;
+    margin-bottom: 0;
+    color: #F9FAF8;
+}
+
+.bannerText2 {
+    font-size: 14px;
+    margin-top: 0;
+    color: #E5E7EB
+}
+
+button.invertedButton {
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px solid white;
+}
