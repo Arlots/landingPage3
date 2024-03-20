@@ -162,3 +162,7 @@ button.invertedButton {
     font-weight: bold;
     border: 1px solid white;
 }
+
+button:hover {
+    transform: scale(1.2)
+}
